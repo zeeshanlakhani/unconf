@@ -4,3 +4,6 @@
 [submodule "lemonad"]
 	path = lemonad
 	url = git://github.com/fogus/lemonad.git
+[submodule "directme-nyc"]
+	path = directme-nyc
+	url = git://github.com/NYPL/directme-nyc.git
