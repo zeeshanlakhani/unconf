@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
         /* Convert to integer */
         int val = atoi(argv[i]);
 
-        printf( "The number %d is %s\n", val, IS_EVEN(val));
+        printf("The number %d is %s\n", val, IS_EVEN(val));
     }
     return 0;
 }
