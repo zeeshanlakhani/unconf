@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     if (argc < 2) {
         printf("Not enough arguments");
         return 0;
-	}
+    }
 
     for (i = 1; i < argc; i++) {
         /* Convert to integer */
