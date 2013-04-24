@@ -1,0 +1,6 @@
+[submodule "essential-js-design-patterns"]
+	path = essential-js-design-patterns
+	url = https://github.com/addyosmani/essential-js-design-patterns
+[submodule "lemonad"]
+	path = lemonad
+	url = git://github.com/fogus/lemonad.git
