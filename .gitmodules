@@ -7,3 +7,6 @@
 [submodule "directme-nyc"]
 	path = directme-nyc
 	url = git://github.com/NYPL/directme-nyc.git
+[submodule "underscore-contrib"]
+	path = underscore-contrib
+	url = git://github.com/documentcloud/underscore-contrib.git
