@@ -21,9 +21,9 @@ We'll also talk about pattern-matching, macros, types, closures, refactoring, an
 
 [Boo-Code.org - 2](http://www.youtube.com/watch?&v=nKIu9yen5nc#t=05m02s)
 
-[Albert Brook's Real Life, in 3D](http://www.youtube.com/watch?v=6KtAzt9LGsI#t=01m)
+[Albert Brook's Real Life, in 3D](http://www.youtube.com/watch?v=6KtAzt9LGsI#t=01m07s)
 
-[Last Emperor](https://www.youtube.com/watch?v=CppajH6il5Q#t=01m51s)
+[Last Emperor](https://www.youtube.com/watch?v=CppajH6il5Q#t=01m54s)
 
 [Little Bit of Rust Memory Management on my Mind](http://www.rustforrubyists.com/book/chapter-08.html)
 
