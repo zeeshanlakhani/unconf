@@ -15,6 +15,8 @@ We'll also talk about pattern-matching, macros, types, closures, refactoring, an
 
 [Programming and Minimalism](http://schedule.sxsw.com/2011/events/event_IAP5715)
 
+[Jonathan Edwards - Beautiful Code](http://alarmingdevelopment.org/?p=79)
+
 ####Links To Elements
 
 [Boo-Code.org - 1](http://www.youtube.com/watch?&v=nKIu9yen5nc#t=03m37s)
