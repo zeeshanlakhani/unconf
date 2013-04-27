@@ -11,12 +11,25 @@ We'll also talk about pattern-matching, macros, types, closures, refactoring, an
 >
 > -Ken Thompson
 
+####Influence
+
+[Programming and Minimalism](http://schedule.sxsw.com/2011/events/event_IAP5715)
+
+####Links To Vid Elements
+
+[Boo-Code.org - 1](http://www.youtube.com/watch?&v=nKIu9yen5nc#t=03m37s)
+
+[Boo-Code.org - 2](http://www.youtube.com/watch?&v=nKIu9yen5nc#t=05m02s)
+
+[Albert Brook's Real Life, in 3D](http://www.youtube.com/watch?v=6KtAzt9LGsI#t=01m)
+
+[Last Emperor](https://www.youtube.com/watch?v=CppajH6il5Q#t=01m51s)
+
 ####Bio
 
 A child who became a filmmaker who became a musician who became a coder who then actually began to really love coding.
 
 Here's a formal [bio](http://arc90.com/team/zeeshan-lakhani/).
-
 
 *Things made (via collaboration/personal/work)*:
 

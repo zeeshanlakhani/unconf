@@ -10,3 +10,6 @@
 [submodule "underscore-contrib"]
 	path = underscore-contrib
 	url = git://github.com/documentcloud/underscore-contrib.git
+[submodule "fizzbuzz"]
+	path = fizzbuzz
+	url = git://github.com/bowmanb/fizzbuzz.git
