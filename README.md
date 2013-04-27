@@ -27,6 +27,10 @@ We'll also talk about pattern-matching, macros, types, closures, refactoring, an
 
 [Little Bit of Rust Memory Management on my Mind](http://www.rustforrubyists.com/book/chapter-08.html)
 
+[Factorial - wha?](http://en.wikipedia.org/wiki/Factorial)
+
+[Tail Recursion - just in case](http://stackoverflow.com/a/33930/413685)
+
 ####Bio
 
 A child who became a filmmaker who became a musician who became a coder who then actually began to really love coding.
