@@ -15,7 +15,7 @@ We'll also talk about pattern-matching, macros, types, closures, refactoring, an
 
 [Programming and Minimalism](http://schedule.sxsw.com/2011/events/event_IAP5715)
 
-####Links To Vid Elements
+####Links To Elements
 
 [Boo-Code.org - 1](http://www.youtube.com/watch?&v=nKIu9yen5nc#t=03m37s)
 
@@ -24,6 +24,8 @@ We'll also talk about pattern-matching, macros, types, closures, refactoring, an
 [Albert Brook's Real Life, in 3D](http://www.youtube.com/watch?v=6KtAzt9LGsI#t=01m)
 
 [Last Emperor](https://www.youtube.com/watch?v=CppajH6il5Q#t=01m51s)
+
+[Little Bit of Rust Memory Management on my Mind](http://www.rustforrubyists.com/book/chapter-08.html)
 
 ####Bio
 
