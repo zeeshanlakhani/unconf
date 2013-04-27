@@ -45,6 +45,8 @@ Here's a formal [bio](http://arc90.com/team/zeeshan-lakhani/).
 
 [Reuters Mobile](https://itunes.apple.com/us/app/reuters/id602660809?mt=8) -> worked on API
 
+[ReutersNext - Preview](http://preview.reuters.com/)
+
 [DirectMeNYC](http://directme.nypl.org) -> Census Search App for NYPL Labs
 
 [What's On the Menu?](http://menus.nypl.org) -> Historical Menu Crowdsourcing App for NYPL Labs
